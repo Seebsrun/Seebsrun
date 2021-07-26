@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Seebsrun
 - 👀 I’m interested in general programming
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Dota Clarity Project.
+- 💞️ I’m looking to collaborate on Dota2 Clarity Project.
 - 📫 How to reach me ...
 
 <!---
